@@ -1,7 +1,7 @@
 # Networker
 #### Roblox networking module
 
-Simple - no bloat, close to roblox API
+Simple - no bloat, close to roblox API<br>
 Easy - provides api to easily optimise
 
 Typechecking - made with --!strict from the beginning
